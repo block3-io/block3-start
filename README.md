@@ -34,9 +34,9 @@ graph TD
 
     S --> AP --> C
 
-    style S fill:#ff6b6b,stroke:#e94560,color:#fff,stroke-width:2px
-    style AP fill:#4ecdc4,stroke:#45b7aa,color:#fff,stroke-width:2px
-    style C fill:#a78bfa,stroke:#8b5cf6,color:#fff,stroke-width:2px
+    style S fill:#d4a5a5,stroke:#c48e8e,color:#333,stroke-width:2px
+    style AP fill:#a8d8cb,stroke:#8ec4b5,color:#333,stroke-width:2px
+    style C fill:#c4b5e0,stroke:#ab9ccb,color:#333,stroke-width:2px
 ```
 
 | Layer | Scope | Answers | Lifespan |
@@ -66,10 +66,10 @@ graph LR
     S2 -->|"obligations, not features"| S3
     S3 -->|"natural separation"| AG
 
-    style S1 fill:#ff6b6b,stroke:#e94560,color:#fff,stroke-width:2px
-    style S2 fill:#ffa07a,stroke:#e8825c,color:#fff,stroke-width:2px
-    style S3 fill:#4ecdc4,stroke:#45b7aa,color:#fff,stroke-width:2px
-    style AG fill:#a78bfa,stroke:#8b5cf6,color:#fff,stroke-width:2px
+    style S1 fill:#d4a5a5,stroke:#c48e8e,color:#333,stroke-width:2px
+    style S2 fill:#e8c9a0,stroke:#d4b68a,color:#333,stroke-width:2px
+    style S3 fill:#a8d8cb,stroke:#8ec4b5,color:#333,stroke-width:2px
+    style AG fill:#c4b5e0,stroke:#ab9ccb,color:#333,stroke-width:2px
 ```
 
 **Step 1 — What is the project?** Not the technical description. The truth. What problem are you solving? Who uses it? What is the core loop? What is out of scope?
@@ -98,11 +98,11 @@ graph TD
     OUT -->|"reviewed by"| VAL
     VAL -->|"approved by"| AR
 
-    style AR fill:#ff6b6b,stroke:#e94560,color:#fff,stroke-width:2px
-    style ARCH fill:#ffa07a,stroke:#e8825c,color:#fff,stroke-width:2px
-    style AG fill:#4ecdc4,stroke:#45b7aa,color:#fff,stroke-width:2px
-    style OUT fill:#a78bfa,stroke:#8b5cf6,color:#fff,stroke-width:2px
-    style VAL fill:#f9ca24,stroke:#e0b41e,color:#fff,stroke-width:2px
+    style AR fill:#d4a5a5,stroke:#c48e8e,color:#333,stroke-width:2px
+    style ARCH fill:#e8c9a0,stroke:#d4b68a,color:#333,stroke-width:2px
+    style AG fill:#a8d8cb,stroke:#8ec4b5,color:#333,stroke-width:2px
+    style OUT fill:#c4b5e0,stroke:#ab9ccb,color:#333,stroke-width:2px
+    style VAL fill:#a8c8e8,stroke:#8eb4d4,color:#333,stroke-width:2px
 ```
 
 ### Operational principles
@@ -130,9 +130,9 @@ graph LR
 
     H --> A --> AG
 
-    style H fill:#ff6b6b,stroke:#e94560,color:#fff,stroke-width:2px
-    style A fill:#4ecdc4,stroke:#45b7aa,color:#fff,stroke-width:2px
-    style AG fill:#a78bfa,stroke:#8b5cf6,color:#fff,stroke-width:2px
+    style H fill:#d4a5a5,stroke:#c48e8e,color:#333,stroke-width:2px
+    style A fill:#a8d8cb,stroke:#8ec4b5,color:#333,stroke-width:2px
+    style AG fill:#c4b5e0,stroke:#ab9ccb,color:#333,stroke-width:2px
 ```
 
 > Authority does not belong to the agents. Authority belongs to the architecture, and the architecture is defined by humans.
