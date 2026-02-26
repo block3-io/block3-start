@@ -187,7 +187,7 @@ Souls are not pre-stocked. The `souls/` directory contains the Architect's refer
 ## Core concepts at a glance
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#ff6b6b', 'secondaryColor': '#4ecdc4', 'tertiaryColor': '#a78bfa', 'primaryTextColor': '#fff', 'secondaryTextColor': '#fff', 'tertiaryTextColor': '#fff', 'lineColor': '#ccc'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#d4a5a5', 'secondaryColor': '#a8d8cb', 'tertiaryColor': '#c4b5e0', 'primaryTextColor': '#333', 'secondaryTextColor': '#333', 'tertiaryTextColor': '#333', 'lineColor': '#bbb'}}}%%
 mindmap
   root((block3))
     Architecture first
